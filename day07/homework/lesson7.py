@@ -59,7 +59,8 @@ print ("enter age type : type(age_str)")  # სტრინგი
 age_int = int(age_str)
 print(" age as integer: age_int type(age_int)")  # მთელი რიცხვი
 
-age_float = float(age_str)
+age_integer = int(age_str)
+
 print("age as float: age_float, ტიპი: type(age_float)")  
 
 
